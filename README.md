@@ -11,7 +11,7 @@ Movie recommendation using Machine Learning.
 
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Capture.PNG)
 
 
 ## Installation
